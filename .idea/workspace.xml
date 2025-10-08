@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd4ca020-fbab-4921-a477-3c4cf95ddb54" name="Changes" comment="" />
-
     <list default="true" id="dd4ca020-fbab-4921-a477-3c4cf95ddb54" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/models/ShipInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/models/ShipInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/tests/ProductsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/tests/ProductsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +90,7 @@
     "SHFMT.PATH": "/Users/olgasafronova/Library/Application Support/JetBrains/IdeaIC2023.3/plugins/Shell Script/shfmt",
     "dart.analysis.tool.window.visible": "false",
     "eu.ydp.idea.ts.spec.generator.settings.spec.template": "import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';\n\ndescribe('$ClassName$', () => {\n  let $ObjName$:$ClassName$;\n\n  beforeEach(() => {\n    $ObjName$ = new $ClassName$();\n  });\n\n  describe('', () => {\n    it('', () => {\n      // given\n\n      // when\n\n      // then\n    });\n  });\n});\n",
-    "git-widget-placeholder": "os/negativeproducttests",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/olgasafronova/IdeaProjects/PlayWright_Java_Gradle_Framework/src/test/java/com",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "show.migrate.to.gradle.popup": "false"
