@@ -90,7 +90,7 @@
     "SHFMT.PATH": "/Users/olgasafronova/Library/Application Support/JetBrains/IdeaIC2023.3/plugins/Shell Script/shfmt",
     "dart.analysis.tool.window.visible": "false",
     "eu.ydp.idea.ts.spec.generator.settings.spec.template": "import {$ClassName$} from '$TestsRelativePath$../src/$classRelativePath$/$ClassName$';\n\ndescribe('$ClassName$', () => {\n  let $ObjName$:$ClassName$;\n\n  beforeEach(() => {\n    $ObjName$ = new $ClassName$();\n  });\n\n  describe('', () => {\n    it('', () => {\n      // given\n\n      // when\n\n      // then\n    });\n  });\n});\n",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "os/updatedfile",
     "last_opened_file_path": "/Users/olgasafronova/IdeaProjects/PlayWright_Java_Gradle_Framework/src/test/java/com",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "show.migrate.to.gradle.popup": "false"
